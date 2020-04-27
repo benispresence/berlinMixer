@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+**Privacy Policy for Berlin Mixer (ios/android app)**
 
-You can use the [editor on GitHub](https://github.com/benispresence/berlinMixer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Benjamin Harmat built the Berlin Mixer app as a Free app. This SERVICE is provided by Benjamin Harmat at no cost and is intended for use as is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Data.
 
-### Markdown
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Information Collection and Use**
 
-```markdown
-Syntax highlighted code block
+No personally identifiable information is collected using my Service. There is only Log Data collected.
 
-# Header 1
-## Header 2
-### Header 3
+**Log Data**
 
-- Bulleted
-- List
+I want to inform you that Log Data is collected by the Google Cloud Functions API to track performance of the underlying API requests.
 
-1. Numbered
-2. List
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-**Bold** and _Italic_ and `Code` text
+**Changes to This Privacy Policy**
 
-[Link](url) and ![Image](src)
-```
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This policy is effective as of 2020-04-27
 
-### Jekyll Themes
+**Contact Me**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benispresence/berlinMixer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at benjaminharmat@gmail.com.
